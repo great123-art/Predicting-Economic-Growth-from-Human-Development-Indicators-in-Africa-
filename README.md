@@ -128,4 +128,4 @@ Let me know if:
 - You need help generating the first dataset or notebook
 - You’d like this `README.md` saved to a file or pushed into a GitHub repo structure
 
-Would you like me to create the file structure and write the first notebook or script to kick off the analysis?
+
